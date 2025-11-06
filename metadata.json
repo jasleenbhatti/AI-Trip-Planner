@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Trip Planner",
+  "description": "A sleek and intelligent trip planner that uses AI to generate detailed, day-by-day itineraries based on your destination, trip duration, and interests.",
+  "requestFramePermissions": []
+}
